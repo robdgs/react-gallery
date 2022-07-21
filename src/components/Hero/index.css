@@ -1,0 +1,7 @@
+.Hero {
+  background-image: url(https://picsum.photos/seed/picsum/4000/200);
+  height: 200px;
+}
+.Hero__title {
+padding-top: 4rem;
+}
